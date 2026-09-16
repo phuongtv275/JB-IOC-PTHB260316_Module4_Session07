@@ -12,3 +12,6 @@ spring:
           default-label: main
           clone-on-start: true
           force-pull: true
+
+encrypt:
+  key: MEDICAL_KEY_SECRET_2026
