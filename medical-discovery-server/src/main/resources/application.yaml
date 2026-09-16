@@ -1,0 +1,5 @@
+spring:
+  application:
+    name: medical-discovery-server
+  config:
+    import: "optional:configserver:http://localhost:8888"
